@@ -2,7 +2,7 @@
 
 **Grundlegende Regeln**
 
-Das Verkaufen von **Inhalten auf Distrikt gegen Echtgeld** ist **verboten**.\
+Das Verkaufen von **Inhalten auf GRP gegen Echtgeld** ist **verboten**.\
 Das Ausnutzen von Grauzonen im Regelwerk zur eigenen Bereicherung, („_man spielt sich selbst_„) ist **verboten**.\
 Sei kein Idiot. Raub niemanden bewusst den Spielspaß. Das Ausspielen von Krankheiten, Schwangerschaft oder Suizid ist verboten.\
 Supportgespräche auf unserem Discord-Server dürfen aufgezeichnet, aber nicht veröffentlicht werden. \
@@ -11,7 +11,7 @@ Das Erfinden von Gegenständen, welche im Spiel nicht verfügbar sind, ist nicht
 
 **Mikrofon**
 
-Ein Mikrofon ist **Pflicht** zum Bespielen des Distrikt-Servers.\
+Ein Mikrofon ist **Pflicht** zum Bespielen des GRP-Servers.\
 Das verwendete Mikrofon **muss** folgende Kriterien erfüllen:
 
 * **Kein** Rauschen, keine Störgeräusche, keine Hintergrundgeräusche.
@@ -42,4 +42,4 @@ Weiterhin ist…
 
 **verboten!**.
 
-Regelverstöße müssen nach spätestens 24 Stunden ab Bekanntheit, im Distrikt-Support (_per_ [_**Discord**_](https://discord.distrikt.gg/)) gemeldet werden.
+Regelverstöße müssen nach spätestens 24 Stunden ab Bekanntheit, im GRP-Support (_per_ [_**Discord**_](https://discord.distrikt.gg/)) gemeldet werden.

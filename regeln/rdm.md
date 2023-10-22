@@ -57,6 +57,6 @@ _Bei Geiselnahmen wird ein Schusscall **benötigt**_
 
 ### Ausnahme: Tiere <a href="#5-toc-title" id="5-toc-title"></a>
 
-Auf Distrikt haben Spieler die Möglichkeit, sich in Tiere zu verwandeln. Es ist festgelegt, dass Tierquälerei nicht erlaubt und **jeglicher Schaden, der Tieren zugefügt wird** als **RDM** zu werten ist.
+Auf GRP haben Spieler die Möglichkeit, sich in Tiere zu verwandeln. Es ist festgelegt, dass Tierquälerei nicht erlaubt und **jeglicher Schaden, der Tieren zugefügt wird** als **RDM** zu werten ist.
 
 **\*** _Ein Rp-Hintergrund sollte für alle beteiligten Personen nachvollziehbar erscheinen._

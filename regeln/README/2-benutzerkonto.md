@@ -7,5 +7,5 @@ Adelstitel, Akademische Titel oder ähnliches sind **verboten**.
 
 **Sicherheit**
 
-Das Benutzerkonto / Spielkonto oder Account der bei Distrikt genutzt wird ist entsprechend zu schützen.\
-Distrikt kann im Zweifelsfall **keine Accounts wiederherstellen**.
+Das Benutzerkonto / Spielkonto oder Account der bei GRP genutzt wird ist entsprechend zu schützen.\
+GRP kann im Zweifelsfall **keine Accounts wiederherstellen**.

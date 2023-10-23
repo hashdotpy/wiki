@@ -8,8 +8,9 @@ _\[Ausnahme bei RP Situationen im **angemessenem Umfang**!]_ \
 Das Adminjail darf in keinster Weise IC an/ausgesprochen werden (auch nicht Umgangssprachlich)!\
 
 
-Sobald du moralisch / persönlich verletzt wirst \[[**OOC**](https://distrikt.gg/docs/was-ist-ic-und-ooc/)] beende die Situation umgehend und informiere die Spieler in der Situation.\
-_z.b: /ooc Ich fühle mich in der Situation unwohl! Ich möchte die Situation beenden._
+Sobald du moralisch / persönlich verletzt wirst \[[**OOC**](../../was-ist-ic-ooc.md)] beende die Situation umgehend und informiere die Spieler in der Situation.\
+_z.b: /ooc Ich fühle mich in der Situation unwohl! Ich möchte die Situation beenden._\
+_Der Missbrauch dieser Regel, um persönlichen Verlust zu vermeiden oder einen unfairen Vorteil zu erlangen, mit administrativen Maßnahmen bestraft wird._
 
 Das bewusste Ausrauben / Belästigen von offensichtlich neuen / unerfahren Mitspielern ist **verboten**.\
 Nach einem Serverneustart, Servercrash oder einem Spielfehler, müssen sich alle RP beteiligten Spieler umgehend wieder einfinden.  Dauert dies länger als 10 Minuten, werden aktive RP-Situationen beendet / müssen nicht weitergeführt werden.\
@@ -50,11 +51,7 @@ Beispiel für direkte Schusscalls (Drohung mit der Waffe/Nahkampfwaffe in der Ha
 
 Wichtig dabei ist, dass man währenddessen mit der Waffe/Nahkampfwaffe auf einen zielt.
 
-❱ Eine Schussankündigung gilt nur für die jeweilige Situation und zum aktuellen Standort. Beispiel: Wenn die Schussankündigung in der Grove Street auf die Mitglieder der Grove Street fällt, darf ich kein Grove Street Mitglied in Paleto Bay töten.
-
 Das Callen auf Routen
-
-❱ Staatsfraktionen dürfen erst ab/mind. 10 Beamten Routen stürmen.
 
 ❱ Fällt ein Call auf einer Route die von Staatfraktionen gestürmt wird, eröffnet sich der Call für alle Parteien auf der Route.\
 
@@ -65,7 +62,7 @@ Das Callen auf Routen
 
 Geiselnahmen unterliegen den folgenden Beschränkungen
 
-* **Pro Geisel** darf **maximal 15.000.-**$ gefordert werden.
+* **Pro Geisel** darf **maximal 2500.-**$ gefordert werden.
 * Während einer Geiselnahme, Juwelen-Raub, Staatsbank-Raub, Ladenraub besteht **KEIN** aktiver Schusscall, hierbei steht das RP während der Verhandlung an erster Stelle.
 * Beim einem Juwelen oder Staatsbank-Raub wird mind. eine Geisel benötigt.&#x20;
 * „_Fake-Geiseln_“ / Absprache mit Geiseln / Meta-Gaming ist **verboten**.
@@ -93,7 +90,6 @@ Folgende Gegenstände ziehen mehr „_Ressourcenkapazität_“:
 
 * Eisenklinge
 * Waffenteile ( Alle Items die zur Herstellung einer Waffe benötigt werden)
-* Schwarzgeld-Lizenz
 * Munition
 * Waffen
 * Alle Drogen & Drogen Rezepte
@@ -115,7 +111,7 @@ Gegenstände mit dem folgenden Endungen dürfen **nicht** abgenommen werden (Aus
 
 **RDM / VDM**
 
-[**RDM**](https://distrikt.gg/docs/rdm/)**\***  / [**VDM**](https://distrikt.gg/docs/vdm/)**\*\*** / sind **verboten**.
+[**RDM**](../rdm.md)**\***  / [**VDM**](../vdm.md)**\*\*** / sind **verboten**.
 
 **Meta-Gaming**
 
@@ -125,18 +121,16 @@ Es ist untersagt Informationen, die aus Livestreams gewonnen wurden, IC zu verwe
 **Fail-RP**
 
 Wenn man im RP aus seiner Rolle fällt bzw. sich im RP nicht angemessen verhält, fällt dies unter Fail RP. _\[Denk dir vorher immer, ob dein Charakter dazu in der Lage ist / Ob diese Aktion klug für dein Leben ist oder nicht]_\
-Wer aufgrund technischer Probleme eine RP-Situation verlassen muss, ist dazu verpflichtet, die beteiligten Spieler via **Discord** zu informieren. Falls nicht möglich: Support informieren.
-
-❱ Kinder dürfen keine Tätigkeiten von Erwachsen ausüben.&#x20;
-
-_z.b: Kein Autofahren oder das Tragen einer Schusswaffe etc._
+Wer aufgrund technischer Probleme eine RP-Situation verlassen muss, ist dazu verpflichtet, die beteiligten Spieler via [**Discord**](https://discord.gg/grp-fivem) zu informieren. Falls nicht möglich: Support informieren.
 
 **POWER RP**
 
 Power RP bedeutet, dass man dem anderen Spieler keine Möglichkeit aus einer RP Situation (lebend) zu entkommen oder einem anderen Spieler eine RP-Situation aufzwingt.\
 Es ist verboten gerade gespawnte Spieler ins RP zu ziehen und als Geisel zu nehmen.\
 Es ist untersagt “_Neulinge_” am Spawn zu belästigen/entführen/zu töten. \
-ᴅᴀꜱ ᴠᴇʀꜱᴛᴇᴄᴋᴛᴇ ᴡᴏʀᴛ ɪꜱᴛ ꜱᴄʜᴡᴇʀᴛꜰɪꜱᴄʜ Schutzgeld und gezwungene Geldüberweisungen gelten als Power RP.&#x20;
+Schutzgeld und gezwungene Geldüberweisungen gelten als Power RP.&#x20;
+
+_Wenn dein Charakter unhöflich oder unrealistisch handelt, wenn er einer bewaffneten Person gegenübersteht, kann es der bewaffneten Person erlaubt sein, dich zu erschießen. Dies fällt nicht unter das PowerRP, da dein Charakter überlebt hätte, wenn er respektvoll mit der bewaffneten Person umgegangen wäre._
 
 **RP-FLUCHT**
 
@@ -156,7 +150,7 @@ Das Abwarten einer Situation von zwei Partei um „abzustauben“ ist verboten (
 Nach einer Not-OP \[Ausgeblutet] \[Hier tritt die New-Life Regel in Kraft] darf man sich nicht an vorherige RP-Situation erinnern.\
 Nach der Behandlung durch das Not-OP Team darf man nicht in die zuvor angefangene RP-Situation zurückkehren.\
 Unter einer RP-Situation versteht sich eine aktuell laufende Aktion wie z.B. eine Schießerei, Geiselnahme, Verhandlung etc.\
-Wer durch einen Mediziner behandelt \[wiederbelebt] wurde, kann sich an seine RP-Situation erinnern, darf jedoch an der alten Situation nicht mehr teilnehmen. \
+Wer durch einen Mediziner behandelt und wiederbelebt wurde, kann sich an seine RP-Situation erinnern, darf jedoch an der alten Situation nicht mehr teilnehmen, es sei denn, die Gegenpartei zwingt denjenigen, an der Situation teilzunehmen.\
 An alle Geschehnisse, die während der Bewusstlosigkeit passieren, kann man sich nicht erinnern.\
 Befindet man sich in einer RP Situation bewusstlos am Boden, darf man nach 10 Minuten ausbluten.\
 Nach deiner Wiederbelebung, darfst du nicht an deiner alten RP-Situation Teilnehmen

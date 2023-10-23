@@ -55,6 +55,10 @@ _Bei Geiselnahmen wird ein Schusscall **benötigt**_
 
 **Die Person, die den Schusscall ausspricht muss immer sicherstellen, dass der „Empfänger“ des Schusscalls diesen auch deutlich gehört hat, andernfalls ist dies als RDM zu werten.**
 
+**Ausnahme: Fraktionsanwesen**
+
+Auf einem Fraktionsanwesen ist die Schussankündigung immer aktiv, und zwar für diejenige Fraktion, der das Anwesen gehört. Dies dient dazu, realistisches Verhalten sicherzustellen und verhindert, dass unbefugte Zivilisten oder andere Fraktionen ungehindert das Anwesen betreten. Die Fraktion, der das Anwesen gehört, eröffnet den "Call" durch einen gezielten Schuss, und erst nach diesem Signal dürfen die Angehörigen anderer Fraktionen zurückschießen
+
 ### Ausnahme: Tiere <a href="#5-toc-title" id="5-toc-title"></a>
 
 Auf GRP haben Spieler die Möglichkeit, sich in Tiere zu verwandeln. Es ist festgelegt, dass Tierquälerei nicht erlaubt und **jeglicher Schaden, der Tieren zugefügt wird** als **RDM** zu werten ist.

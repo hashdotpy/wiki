@@ -8,7 +8,7 @@ _\[Ausnahme bei RP Situationen im **angemessenem Umfang**!]_ \
 Das Adminjail darf in keinster Weise IC an/ausgesprochen werden (auch nicht Umgangssprachlich)!\
 
 
-Sobald du moralisch / persönlich verletzt wirst \[[**OOC**](../../was-ist-ic-ooc.md)] beende die Situation umgehend und informiere die Spieler in der Situation.\
+Sobald du moralisch / persönlich verletzt wirst \[[**OOC**](../was-ist-ic-ooc.md)] beende die Situation umgehend und informiere die Spieler in der Situation.\
 _z.b: /ooc Ich fühle mich in der Situation unwohl! Ich möchte die Situation beenden._\
 _Der Missbrauch dieser Regel, um persönlichen Verlust zu vermeiden oder einen unfairen Vorteil zu erlangen, mit administrativen Maßnahmen bestraft wird._
 

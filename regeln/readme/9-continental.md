@@ -1,4 +1,4 @@
-# 👨⚖ Continental
+# 👨⚖ §9 Continental
 
 D**as "Continental" - Eine IC-geführte Fraktionsverwaltung**
 
@@ -10,7 +10,7 @@ D**as "Continental" - Eine IC-geführte Fraktionsverwaltung**
 
 **Bestrafung von Regelverstößen:** Das "Continental" hat die Befugnis, gegen Fraktionen vorzugehen, die sich nicht an die festgelegten Regeln und Bestimmungen halten. Je nach Schwere des Regelverstoßes oder bei wiederholtem Fehlverhalten kann das Continental Maßnahmen ergreifen, die bis zur Auflösung der betroffenen Fraktion führen können. Sie können eine Fraktion auch als Vogelfrei erklären.&#x20;
 
-**Kriegsverträge:** Im Falle eines Konflikts zwischen Fraktionen, der in einem Krieg mündet, ist es zwingend erforderlich, diesen Konflikt mit einem RP-Hintergrund beim "Continental" anzumelden. Die Rolle des "Continental" besteht darin, einen Kriegsvertrag aufzusetzen, der die Bedingungen und Regeln für den Konflikt festlegt. Innerhalb dieses Vertrages wird ebenfalls festgehalten, wie der Gewinner des Konflikts ermittelt wird. [Mehr zum Kriegsvertrag hier](kriegsvertrag.md).
+**Kriegsverträge:** Im Falle eines Konflikts zwischen Fraktionen, der in einem Krieg mündet, ist es zwingend erforderlich, diesen Konflikt mit einem RP-Hintergrund beim "Continental" anzumelden. Die Rolle des "Continental" besteht darin, einen Kriegsvertrag aufzusetzen, der die Bedingungen und Regeln für den Konflikt festlegt. Innerhalb dieses Vertrages wird ebenfalls festgehalten, wie der Gewinner des Konflikts ermittelt wird. [Mehr zum Kriegsvertrag hier](10-kriegsvertrag.md).
 
 Das "Continental" agiert in dieser Angelegenheit als neutrale Partei und basierend auf den im Vertrag festgelegten Bedingungen wird die Entscheidung über den Gewinner getroffen. Die Einhaltung des Kriegsvertrages ist obligatorisch und wird strikt überwacht, um die Integrität und Fairness des Konflikts zu gewährleisten.
 

@@ -32,7 +32,7 @@ Allgemeine Schusscallregelung:&#x20;
 ❱ Nach dem letzten Schuss, gilt der Schusscall **weitere 10 Minuten**.\
 ❱ Freche Äußerungen oder das Tazern ist kein Schusscall.\
 ❱ Das bloße Zielen mit einer Waffe eröffnet für keine Partei einen Schusscall.\
-❱ Schüsse auf ein leeres Fahrzeug, **gelten** als Schusscall **wenn** die **Gegenpartei das Feuer eröffn**et.\
+❱ Schüsse auf ein leeres Fahrzeug, **gelten** als Schusscall **wenn** die **Gegenpartei das Feuer eröffnet**.\
 ❱ Flüchten in Safezones bei aktiven Schusscall ist **verboten**.\
 ❱ Schüsse auf Fahrzeuge _(eingenommen Insassen)_ insbesondere Reifen _(von_ [_LSPD_ ](https://distrikt.gg/docs/lspd/)_/_ [_LSSD_](https://distrikt.gg/docs/lssd/)_)_ kommen einem Schusscall gleich und bedürfen diesen explizit.\
 ❱ Es ist untersagt, als **zivile Gruppierung oder als zivile Einzelperson** eine Drogenroute zu stürmen.&#x20;

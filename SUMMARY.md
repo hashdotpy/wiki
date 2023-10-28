@@ -38,3 +38,4 @@
 * [🎆 Events](erklaerung/events.md)
 * [🕵 FIB](erklaerung/fib.md)
 * [📈 FiveM FPS](erklaerung/fivem-fps.md)
+* [🤸 Freizeit Aktivitäten](erklaerung/freizeit-aktivitaeten.md)

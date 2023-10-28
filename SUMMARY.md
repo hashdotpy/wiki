@@ -40,3 +40,4 @@
 * [📈 FiveM FPS](erklaerung/fivem-fps.md)
 * [🤸 Freizeit Aktivitäten](erklaerung/freizeit-aktivitaeten.md)
 * [🔫 Gambohalle](erklaerung/gambohalle.md)
+* [📔 Lexikon](erklaerung/lexikon.md)

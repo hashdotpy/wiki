@@ -32,5 +32,6 @@
 * [⚒ Farming](erklaerung/farming.md)
 * [💵 Geld Arten](erklaerung/geld-arten.md)
 * [☄ Baiting](erklaerung/readme.md)
-* [⚔ Ban](erklaerung/ban.md)
 * [📂 Cache löschen](erklaerung/cache-loeschen.md)
+* [⚔ Ban](erklaerung/ban.md)
+* [🔓 Entbannung](erklaerung/entbannung.md)

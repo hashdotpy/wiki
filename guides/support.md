@@ -32,5 +32,3 @@ Alternativ kannst du [OBS](https://obsproject.com/de/download) oder [Geforce-Exp
 Der Inhalt von angefertigten Clips darf **nur OOC** (_out of character_) verwendet werden.\
 Dein IC-Selbst kennt den Inhalt von fremden Clips / Aufnahmen **nicht** und darf diese weder ansprechen, verwenden noch darauf hinweisen oder ähnliches.\
 Dieses Verhalten gilt als META-Gaming.
-
-<figure><img src="https://www.ripe.net/support/get-support-landing-page/@@images/image/large" alt="Get Support — RIPE Network Coordination Centre" height="455" width="607"><figcaption></figcaption></figure>

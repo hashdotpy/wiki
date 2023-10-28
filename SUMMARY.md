@@ -42,3 +42,4 @@
 * [🔫 Gambohalle](erklaerung/gambohalle.md)
 * [📔 Lexikon](erklaerung/lexikon.md)
 * [🏥 LSMD](erklaerung/lsmd.md)
+* [👮 LSPD](erklaerung/lspd.md)

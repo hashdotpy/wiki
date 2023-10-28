@@ -32,6 +32,8 @@ Lehrling
 
 Praktikant
 
+(Respektive Änderungen)
+
 ### Links  <a href="#2-toc-title" id="2-toc-title"></a>
 
 ### Gehalt  <a href="#3-toc-title" id="3-toc-title"></a>
@@ -61,6 +63,8 @@ Sanitäter 3100$
 Lehrling 2550$
 
 Praktikant 0$
+
+(Respektive Änderungen)
 
 ### Besonderheiten  <a href="#4-toc-title" id="4-toc-title"></a>
 

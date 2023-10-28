@@ -43,3 +43,6 @@
 * [📔 Lexikon](erklaerung/lexikon.md)
 * [🏥 LSMD](erklaerung/lsmd.md)
 * [👮 LSPD](erklaerung/lspd.md)
+* [🚓 LSSD](erklaerung/lssd.md)
+* [👨🔧 Mechaniker](erklaerung/mechaniker.md)
+* [🌇 Grafikmodifikationen](erklaerung/grafikmodifikationen.md)

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Willkommen!](README.md)
+* [🤡 Baiting](README.md)
 
 ## Regeln
 
@@ -32,7 +32,4 @@
 
 * [🚗 Fahrzeugproduktion](erklaerung/fahrzeugproduktion.md)
 * [🎤 GRP-Voice](erklaerung/grp-voice.md)
-
-***
-
-* [⚒ Farming](farming.md)
+* [⚒ Farming](erklaerung/farming.md)

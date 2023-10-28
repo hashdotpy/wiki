@@ -4,7 +4,7 @@
 
 ## Regeln
 
-* [📖 Regelwerk](<REGELWERK.md>)
+* [📖 Regelwerk](REGELWERK.md)
   * [📔 §1 Allgemein](regeln/README/1-allgemein.md)
   * [🙆 §2 Benutzerkonto](regeln/README/2-benutzerkonto.md)
   * [🎮 §3 Roleplay](regeln/README/3-roleplay.md)
@@ -15,7 +15,7 @@
   * [💻 §8 Discord](regeln/README/8-discord.md)
   * [👨⚖ §9 Continental](regeln/readme/9-continental.md)
   * [📔 §10 Kriegsvertrag](regeln/readme/10-kriegsvertrag.md)
-  * [🔫 §11 Wie wird meine Fraktion/Bande  offiziell](regeln/readme/11-wie-wird-meine-fraktion-bande-offiziell.md)
+  * [🔫 §11 Wie wird meine Fraktion/Bande offiziell](regeln/readme/11-wie-wird-meine-fraktion-bande-offiziell.md)
 * [🆘 Power RP](regeln/power-rp.md)
 * [🔪 RDM](regeln/rdm.md)
 * [🚙 VDM](regeln/vdm.md)
@@ -24,9 +24,6 @@
 * [💊 New Life](regeln/new-life.md)
 * [📘 Staatsfraktion](regeln/staatsfraktion.md)
 * [👨👨👦 Drittpartei](regeln/drittpartei.md)
-* [🥲 Was ist OOC-MAD](regeln/was-ist-ooc-mad.md)
-* [🗣 Was ist IC-OOC](regeln/was-ist-ic-ooc.md)
-* [📺 Was ist Meta-Gaming](regeln/was-ist-meta-gaming.md)
 
 ## Erklärung
 
@@ -40,6 +37,13 @@
 * [🌇 Grafikmodifikationen](erklaerung/grafikmodifikationen.md)
 * [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)
 * [🔧 Werkbank](erklaerung/werkbank.md)
+
+## WAS IST
+
+* [🎮 Was ist RP](was-ist/was-ist-rp.md)
+* [📺 Was ist Meta-Gaming](was-ist/was-ist-meta-gaming.md)
+* [🗣 Was ist IC-OOC](was-ist/was-ist-ic-ooc.md)
+* [🥲 Was ist OOC-MAD](was-ist/was-ist-ooc-mad.md)
 
 ## Fraktionen
 

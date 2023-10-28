@@ -4,17 +4,16 @@
 
 Das Leben / Gesundheit steht an erster Stelle und muss **geschützt / gewahrt** bleiben.\
 Platzierbare Gegenstände dürfen **nicht** genutzt werden, um Treppen o.ä zu blockieren.\
-_\[Ausnahme bei RP Situationen im **angemessenem Umfang**!]_ \
-Das Adminjail darf in keinster Weise IC an/ausgesprochen werden (auch nicht Umgangssprachlich)!\
+_\[Ausnahme bei RP Situationen im **angemessenem Umfang**!]_\
+Das Adminjail darf in keinster Weise IC an/ausgesprochen werden (auch nicht Umgangssprachlich)!\\
 
-
-Sobald du moralisch / persönlich verletzt wirst \[[**OOC**](../was-ist-ic-ooc.md)] beende die Situation umgehend und informiere die Spieler in der Situation.\
+Sobald du moralisch / persönlich verletzt wirst \[[**OOC**](../../was-ist/was-ist-ic-ooc.md)] beende die Situation umgehend und informiere die Spieler in der Situation.\
 _z.b: /ooc Ich fühle mich in der Situation unwohl! Ich möchte die Situation beenden._\
 _Der Missbrauch dieser Regel, um persönlichen Verlust zu vermeiden oder einen unfairen Vorteil zu erlangen, mit administrativen Maßnahmen bestraft wird._
 
 Das bewusste Ausrauben / Belästigen von offensichtlich neuen / unerfahren Mitspielern ist **verboten**.\
-Nach einem Serverneustart, Servercrash oder einem Spielfehler, müssen sich alle RP beteiligten Spieler umgehend wieder einfinden.  Dauert dies länger als 10 Minuten, werden aktive RP-Situationen beendet / müssen nicht weitergeführt werden.\
-Das Provozieren von Personen / Fraktionen wird um Fehlverhalten, herbeizuführen, wird bei dem Nachweis der Absicht bestraft.  Fraktionen sind von dieser Regel ausdrücklich betroffen!\
+Nach einem Serverneustart, Servercrash oder einem Spielfehler, müssen sich alle RP beteiligten Spieler umgehend wieder einfinden. Dauert dies länger als 10 Minuten, werden aktive RP-Situationen beendet / müssen nicht weitergeführt werden.\
+Das Provozieren von Personen / Fraktionen wird um Fehlverhalten, herbeizuführen, wird bei dem Nachweis der Absicht bestraft. Fraktionen sind von dieser Regel ausdrücklich betroffen!\
 Spieler mit einer Vollmaskierung dürfen nicht anhand der Stimme/Akzent erkannt werden \[_Ein Bandana zählt ohne weitere Hilfsmittel, wie einen Hut nicht als Vollmaskierung_].\
 Jegliche Art von Scamming / Betrug ist **verboten**.\
 Mitglieder einer Staatsfraktion gelten als unantastbar, solange sie sich nicht in Gefahr begeben. \[Ausnahme bei Raubüberfällen, Provokation, Ausnutzen ihres Postens, Razzien]\
@@ -28,24 +27,22 @@ Neulinge, die nicht von euch an,- oder abgeworben wurden, dürfen nicht gebeten 
 
 Allgemeine Schusscallregelung:
 
-❱ Eine Schusswaffe/Schlagwaffe wird **nur** mit gegebenem **Schusscall** verwendet. \
+❱ Eine Schusswaffe/Schlagwaffe wird **nur** mit gegebenem **Schusscall** verwendet.\
 ❱ Nach dem letzten Schuss, gilt der Schusscall **weitere 10 Minuten**.\
 ❱ Freche Äußerungen oder das Tazern ist kein Schusscall.\
 ❱ Das bloße Zielen mit einer Waffe eröffnet für keine Partei einen Schusscall.\
 ❱ Schüsse auf ein leeres Fahrzeug, **gelten** als Schusscall **wenn** die **Gegenpartei das Feuer eröffnet**.\
 ❱ Flüchten in Safezones bei aktiven Schusscall ist **verboten**.\
-❱ Schüsse auf Fahrzeuge _(eingenommen Insassen)_ insbesondere Reifen _(von_ [_LSPD_](../../fraktionen/lspd.md)_ / _ [_LSSD_](../../fraktionen/lssd.md)_)_ kommen einem Schusscall gleich und bedürfen diesen explizit.\
+❱ Schüsse auf Fahrzeuge _(eingenommen Insassen)_ insbesondere Reifen _(von_ [_LSPD_](../../fraktionen/lspd.md)\_ / \_ [_LSSD_](../../fraktionen/lssd.md)_)_ kommen einem Schusscall gleich und bedürfen diesen explizit.\
 ❱ Es ist untersagt, als **zivile Gruppierung oder als zivile Einzelperson** eine Drogenroute zu stürmen.
 
 Beispiele für einen indirekten Schusscall:
 
 ❱ Wenn jemand mein Auto vor meinen Augen klaut\
 ❱ extreme Beleidigung und extremes Provozieren\
-❱ das Schießen auf Reifen\
+❱ das Schießen auf Reifen\\
 
-
-Beispiel für direkte Schusscalls (Drohung mit der Waffe/Nahkampfwaffe in der Hand):\
-
+Beispiel für direkte Schusscalls (Drohung mit der Waffe/Nahkampfwaffe in der Hand):\\
 
 ❱ “Hände hoch”, “Stehen bleiben” oder ähnliche Aufforderungen mit einer Waffe/Nahkampfwaffe in der Hand.
 
@@ -53,10 +50,9 @@ Wichtig dabei ist, dass man währenddessen mit der Waffe/Nahkampfwaffe auf einen
 
 Das Callen auf Routen
 
-❱ Fällt ein Call auf einer Route die von Staatfraktionen gestürmt wird, eröffnet sich der Call für alle Parteien auf der Route.\
+❱ Fällt ein Call auf einer Route die von Staatfraktionen gestürmt wird, eröffnet sich der Call für alle Parteien auf der Route.\\
 
-
-  _Das Callen einer einzeln Partei auf einer Route ist nicht möglich!_
+_Das Callen einer einzeln Partei auf einer Route ist nicht möglich!_
 
 **Geiselnahmen & Überfälle**
 
@@ -101,8 +97,7 @@ Gegenstände mit dem folgenden Endungen dürfen **nicht** abgenommen werden (Aus
 * \[VIP-GEWINN]
 * \[EVENT]
 * **\[WEAZEL]**
-* **\[SELTEN]**\
-
+* **\[SELTEN]**\\
 
 **(AFK)-Farming**
 
@@ -111,7 +106,7 @@ Das AFK-Farmen auf einer illegalen Route ist **erlaubt**, man sollte jedoch ansp
 
 **RDM / VDM**
 
-[**RDM**](../rdm.md)**\***  / [**VDM**](../vdm.md)**\*\*** / sind **verboten**.
+[**RDM**](../rdm.md)**\*** / [**VDM**](../vdm.md)**\*\*** / sind **verboten**.
 
 **Meta-Gaming**
 
@@ -127,7 +122,7 @@ Wer aufgrund technischer Probleme eine RP-Situation verlassen muss, ist dazu ver
 
 Power RP bedeutet, dass man dem anderen Spieler keine Möglichkeit aus einer RP Situation (lebend) zu entkommen oder einem anderen Spieler eine RP-Situation aufzwingt.\
 Es ist verboten gerade gespawnte Spieler ins RP zu ziehen und als Geisel zu nehmen.\
-Es ist untersagt “_Neulinge_” am Spawn zu belästigen/entführen/zu töten. \
+Es ist untersagt “_Neulinge_” am Spawn zu belästigen/entführen/zu töten.\
 Schutzgeld und gezwungene Geldüberweisungen gelten als Power RP.
 
 _Wenn dein Charakter unhöflich oder unrealistisch handelt, wenn er einer bewaffneten Person gegenübersteht, kann es der bewaffneten Person erlaubt sein, dich zu erschießen. Dies fällt nicht unter das PowerRP, da dein Charakter überlebt hätte, wenn er respektvoll mit der bewaffneten Person umgegangen wäre._
@@ -142,7 +137,7 @@ Das Flüchten in eine für andere nicht begehbare Wohnung oder anderes nicht beg
 **3.Partei**
 
 Bei einem Krieg zwischen dem Handelspartner und einer dritten Partei darf sich nicht eingemischt werden.\
-Interaktionen zwischen Fraktionen finden ohne Störung durch eine Drittpartei statt!  (Staatsfraktionen ausgenommen) Fraktionen ist es nicht gestattet sich aktiven Schussgefechten zu nähern bei denen klar die eigene Fraktion unbeteiligt ist. (_Staatsfraktionen ausgenommen_). Gibt die Fraktion über /ooc einen Hinweis auf eine laufende Situation, ist dies ernst zunehmen und die Situation sofort zu verlassen. Sollte die Partei dieses ausnutzen, um sich der RP-Situation zu entziehen, wird diese im Support bestraft.\
+Interaktionen zwischen Fraktionen finden ohne Störung durch eine Drittpartei statt! (Staatsfraktionen ausgenommen) Fraktionen ist es nicht gestattet sich aktiven Schussgefechten zu nähern bei denen klar die eigene Fraktion unbeteiligt ist. (_Staatsfraktionen ausgenommen_). Gibt die Fraktion über /ooc einen Hinweis auf eine laufende Situation, ist dies ernst zunehmen und die Situation sofort zu verlassen. Sollte die Partei dieses ausnutzen, um sich der RP-Situation zu entziehen, wird diese im Support bestraft.\
 Das Abwarten einer Situation von zwei Partei um „abzustauben“ ist verboten (Staatsfraktionen ausgenommen)
 
 **New Life**

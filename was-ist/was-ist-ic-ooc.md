@@ -11,4 +11,4 @@ OOC: Out of Character / „Ausserhalb des Roleplay-Charakters“ / Du selbst vor
 
 Du solltest beim aktiven Bespielen deiner IC-Persönlichkeit nichts persönlich oder OOC aufnehmen.\
 Solltest du aufgrund einer Handlung „[OOC-Mad](was-ist-ooc-mad.md)“ sein, unterbrich die aktive Roleplay-Situation und entferne Dich aus dem Spiel. Sobald du Dich halbwegs beruhigt hast lese die oberen Abschnitte erneut und versuche in Zukunft IC und OOC zu trennen.\
-Das ist hilfreich für die [Roleplay](https://distrikt.gg/docs/was-ist-rp/)-Erfahrung aller Beteiligten.
+Das ist hilfreich für die [Roleplay](was-ist-rp.md)-Erfahrung aller Beteiligten.

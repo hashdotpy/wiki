@@ -28,6 +28,7 @@
 * [🗣 Was ist IC-OOC](regeln/was-ist-ic-ooc.md)
 * [📺 Was ist Meta-Gaming](regeln/was-ist-meta-gaming.md)
 
-***
+## Erklärung&#x20;
 
-* [🎤 GRP-Voice](grp-voice.md)
+* [🚗 Fahrzeugproduktion](erklaerung/fahrzeugproduktion.md)
+* [🎤 GRP-Voice](erklaerung/grp-voice.md)

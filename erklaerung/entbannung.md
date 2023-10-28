@@ -4,7 +4,7 @@
 
 Du wurdest mit eine Spielausschluss bestraft, weil Du einen Regelverstoß begangen hast?
 
-Dann kannst du durch einen ordentlichen Entbannungsantrag auch vor Ablauf Deiner Strafe wieder am Roleplay innerhalb der Distrikt-Server teilnehmen.\
+Dann kannst du durch einen ordentlichen Entbannungsantrag auch vor Ablauf Deiner Strafe wieder am Roleplay innerhalb der GRP-Server teilnehmen.\
 Dazu bitte einen Antrag mit mindestens 300 Wörtern via Google Docs anfertigen.
 
 Solltest du dennoch nicht Entbannt werden, kannst du dir eine Entbannung im Shop kaufen.

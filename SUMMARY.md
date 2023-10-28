@@ -25,6 +25,7 @@
 * [🥲 Was ist OOC-MAD](regeln/was-ist-ooc-mad.md)
 * [🗣 Was ist IC-OOC](regeln/was-ist-ic-ooc.md)
 * [📺 Was ist Meta-Gaming](regeln/was-ist-meta-gaming.md)
+* [⚔ Ban](regeln/ban.md)
 
 ## Erklärung&#x20;
 

@@ -14,7 +14,7 @@ Ein Schusscall ist eine **Ankündigung**, die man jemandem geben muss, bevor man
 
 Um einen Schusscall regelkonform abzugeben, musst du **jemanden mit dem Leben bedrohen**. Beispiele für Schusscalls sind:
 
-<figure><img src="../.gitbook/assets/SeekPng.com_gta-online-png_2107262.png" alt="" width="165"><figcaption><p>„Hey Du! Ja genau Du!“</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/call.png" alt="" width="165"><figcaption><p>„Hey Du! Ja genau Du!“</p></figcaption></figure>
 
 _„Hände hoch, oder es knallt.“_
 

@@ -1,10 +1,8 @@
 # Table of contents
 
-* [🤡 Baiting](README.md)
-
 ## Regeln
 
-* [📖 Regelwerk](regeln/README/README.md)
+* [📖 Regelwerk](README.md)
   * [📔 §1 Allgemein](regeln/README/1-allgemein.md)
   * [🙆 §2 Benutzerkonto](regeln/README/2-benutzerkonto.md)
   * [🎮 §3 Roleplay](regeln/README/3-roleplay.md)
@@ -18,10 +16,10 @@
   * [🔫 §11 Wie wird meine Fraktion/Bande  offiziell](regeln/readme/11-wie-wird-meine-fraktion-bande-offiziell.md)
 * [🆘 Power RP](regeln/power-rp.md)
 * [🔪 RDM](regeln/rdm.md)
-* [⛈ FailRP](regeln/failrp.md)
-* [☄ Baiting](regeln/baiting.md)
-* [💊 New Life](regeln/new-life.md)
 * [🚙 VDM](regeln/vdm.md)
+* [⛈ FailRP](regeln/failrp.md)
+* [☄ Baiting](regeln/readme-1.md)
+* [💊 New Life](regeln/new-life.md)
 * [📘 Staatsfraktion](regeln/staatsfraktion.md)
 * [👨👨👦 Drittpartei](regeln/drittpartei.md)
 * [🥲 Was ist OOC-MAD](regeln/was-ist-ooc-mad.md)

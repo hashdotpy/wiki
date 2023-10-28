@@ -18,7 +18,7 @@
 * [🔪 RDM](regeln/rdm.md)
 * [🚙 VDM](regeln/vdm.md)
 * [⛈ FailRP](regeln/failrp.md)
-* [☄ Baiting](regeln/readme-1.md)
+* [☄ Baiting](<README (1).md>)
 * [💊 New Life](regeln/new-life.md)
 * [📘 Staatsfraktion](regeln/staatsfraktion.md)
 * [👨👨👦 Drittpartei](regeln/drittpartei.md)

@@ -37,3 +37,4 @@
 * [🔓 Entbannung](erklaerung/entbannung.md)
 * [🎆 Events](erklaerung/events.md)
 * [🕵 FIB](erklaerung/fib.md)
+* [📈 FiveM FPS](erklaerung/fivem-fps.md)

@@ -18,17 +18,18 @@
 * [🔪 RDM](regeln/rdm.md)
 * [🚙 VDM](regeln/vdm.md)
 * [⛈ FailRP](regeln/failrp.md)
-* [☄ Baiting](<README (1).md>)
 * [💊 New Life](regeln/new-life.md)
 * [📘 Staatsfraktion](regeln/staatsfraktion.md)
 * [👨👨👦 Drittpartei](regeln/drittpartei.md)
 * [🥲 Was ist OOC-MAD](regeln/was-ist-ooc-mad.md)
 * [🗣 Was ist IC-OOC](regeln/was-ist-ic-ooc.md)
 * [📺 Was ist Meta-Gaming](regeln/was-ist-meta-gaming.md)
-* [⚔ Ban](regeln/ban.md)
 
 ## Erklärung&#x20;
 
 * [🚗 Fahrzeugproduktion](erklaerung/fahrzeugproduktion.md)
 * [🎤 GRP-Voice](erklaerung/grp-voice.md)
 * [⚒ Farming](erklaerung/farming.md)
+* [💵 Geld Arten](erklaerung/geld-arten.md)
+* [☄ Baiting](erklaerung/readme.md)
+* [⚔ Ban](erklaerung/ban.md)

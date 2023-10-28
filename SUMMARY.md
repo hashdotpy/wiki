@@ -41,3 +41,4 @@
 * [🤸 Freizeit Aktivitäten](erklaerung/freizeit-aktivitaeten.md)
 * [🔫 Gambohalle](erklaerung/gambohalle.md)
 * [📔 Lexikon](erklaerung/lexikon.md)
+* [🏥 LSMD](erklaerung/lsmd.md)

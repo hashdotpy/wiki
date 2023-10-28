@@ -35,3 +35,5 @@
 * [📂 Cache löschen](erklaerung/cache-loeschen.md)
 * [⚔ Ban](erklaerung/ban.md)
 * [🔓 Entbannung](erklaerung/entbannung.md)
+* [🎆 Events](erklaerung/events.md)
+* [🕵 FIB](erklaerung/fib.md)

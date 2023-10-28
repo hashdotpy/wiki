@@ -47,3 +47,4 @@
 * [👨🔧 Mechaniker](erklaerung/mechaniker.md)
 * [🌇 Grafikmodifikationen](erklaerung/grafikmodifikationen.md)
 * [🗣 Support](erklaerung/support.md)
+* [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)

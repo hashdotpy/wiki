@@ -1,14 +1,5 @@
 # 🚓 LSSD
 
-Inhalt:
-
-* Standort/PLZ
-* Ränge
-* Gehalt
-* Besonderheiten
-* Geschichte
-* Logos/Bilder/Videos
-
 ### Standort/PLZ  <a href="#0-toc-title" id="0-toc-title"></a>
 
 Paleto BAY / 1038

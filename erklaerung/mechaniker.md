@@ -1,15 +1,5 @@
 # 👨🔧 Mechaniker
 
-Inhalt:
-
-* Erklärung
-* Mechaniker werden
-* Eigene Werkstatt eröffnen&#x20;
-* Besonderheiten
-* Ränge
-* Funktionen für Fahr-/Flugzeuge
-* Verdienst
-
 ### Erklärung  <a href="#0-toc-title" id="0-toc-title"></a>
 
 Mechaniker ist eine Jobmöglichkeit der Einwohner.

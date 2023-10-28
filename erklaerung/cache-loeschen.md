@@ -1,12 +1,5 @@
 # 📂 Cache löschen
 
-Inhalt:
-
-* Wann macht es Sinn den FiveM-Cache zu löschen?
-* Wann macht es keinen Sinn den FiveM-Cache zu löschen?
-* Step by Step: FiveM Cache leeren:
-* Video Anleitung
-
 ### Wann macht es Sinn den FiveM-Cache zu löschen?  <a href="#0-toc-title" id="0-toc-title"></a>
 
 * Das Spiel ruckelt / lagged extrem bei dir

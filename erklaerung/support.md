@@ -1,13 +1,5 @@
 # 🗣 Support
 
-**Inhalt:**
-
-* Erklärung Support
-* Wie komme ich in den Support?
-* Beweise im Support?
-* Wie kann ich Clips machen?
-* Hinweis
-
 ### Erklärung Support  <a href="#0-toc-title" id="0-toc-title"></a>
 
 Im Support kannst Du Spieler melden die Deiner Meinung nach einen Regelverstoß _(siehe Regelwerk)_ begangen haben.\

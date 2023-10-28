@@ -1,15 +1,5 @@
 # 🕵 FIB
 
-Inhalt:
-
-* Beschreibung
-* Standort
-* Ränge
-* Gehalt
-* Bewerbungsverfahren
-* Besonderheiten
-* Logo
-
 ### Beschreibung  <a href="#0-toc-title" id="0-toc-title"></a>
 
 FIB ist eine Regierungsorganisation, eine Staatsfraktion und genießt besondere Geheimhaltungsstufe.

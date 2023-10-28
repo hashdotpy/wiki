@@ -8,13 +8,13 @@ D**as "Continental" - Eine IC-geführte Fraktionsverwaltung**
 
 **Unantastbarkeit:** Das "Continental" ist in seiner Position als zentrale Fraktionsverwaltung unantastbar und genießt ein hohes Maß an Autorität. In Ausnahmefällen kann es jedoch das Recht ausüben, bestimmte Regeln für spezifische Gruppierungen aufzuheben, sofern dies im Interesse der Gesamtheit der Fraktionen liegt. Als Beispiel sei das Aufheben der Schusscall Regel auf Fraktion X, somit darf ohne Call auf die Partei geschossen werden.
 
-**Bestrafung von Regelverstößen:** Das "Continental" hat die Befugnis, gegen Fraktionen vorzugehen, die sich nicht an die festgelegten Regeln und Bestimmungen halten. Je nach Schwere des Regelverstoßes oder bei wiederholtem Fehlverhalten kann das Continental Maßnahmen ergreifen, die bis zur Auflösung der betroffenen Fraktion führen können. Sie können eine Fraktion auch als Vogelfrei erklären.&#x20;
+**Bestrafung von Regelverstößen:** Das "Continental" hat die Befugnis, gegen Fraktionen vorzugehen, die sich nicht an die festgelegten Regeln und Bestimmungen halten. Je nach Schwere des Regelverstoßes oder bei wiederholtem Fehlverhalten kann das Continental Maßnahmen ergreifen, die bis zur Auflösung der betroffenen Fraktion führen können. Sie können eine Fraktion auch als Vogelfrei erklären.
 
 **Kriegsverträge:** Im Falle eines Konflikts zwischen Fraktionen, der in einem Krieg mündet, ist es zwingend erforderlich, diesen Konflikt mit einem RP-Hintergrund beim "Continental" anzumelden. Die Rolle des "Continental" besteht darin, einen Kriegsvertrag aufzusetzen, der die Bedingungen und Regeln für den Konflikt festlegt. Innerhalb dieses Vertrages wird ebenfalls festgehalten, wie der Gewinner des Konflikts ermittelt wird. [Mehr zum Kriegsvertrag hier](10-kriegsvertrag.md).
 
 Das "Continental" agiert in dieser Angelegenheit als neutrale Partei und basierend auf den im Vertrag festgelegten Bedingungen wird die Entscheidung über den Gewinner getroffen. Die Einhaltung des Kriegsvertrages ist obligatorisch und wird strikt überwacht, um die Integrität und Fairness des Konflikts zu gewährleisten.
 
-**Drogenhandel:** Innerhalb des "Continental" besteht die Möglichkeit, Drogen in begrenzten Mengen (nur Kilogramm) oder Waffen zu verkaufen und anzukaufen. Das Continental bezahlt den Fraktionen/Spieler mehr als "Pablo".&#x20;
+**Drogenhandel:** Innerhalb des "Continental" besteht die Möglichkeit, Drogen in begrenzten Mengen (nur Kilogramm) oder Waffen zu verkaufen und anzukaufen. Das Continental bezahlt den Fraktionen/Spieler mehr als "Pablo".
 
 **Illegale Geschäfte:** Das "Continental" gestattet jegliche Art von illegalen Geschäften, jedoch unter bestimmten Voraussetzungen. Die Entscheidung, ob das "Continental" bei einem bestimmten illegalen Geschäft beteiligt ist, wird von Fall zu Fall getroffen. Hierbei wird die Art des Geschäfts, die potenziellen Auswirkungen auf die Fraktionen und die Wirtschaft sowie die Einhaltung der festgelegten Regeln und Bestimmungen sorgfältig geprüft. Das "Continental" ist befugt, Geschäfte zu genehmigen oder abzulehnen, um die Stabilität und Ordnung innerhalb der Fraktionen.
 

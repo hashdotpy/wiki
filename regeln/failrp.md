@@ -8,6 +8,6 @@ Unrealistisches Handeln. Wenn du als Geisel genommen bist, und neben dir 3 Schwe
 
 Fail-RP stellt einen Regelverstoß dar.
 
-❱ Kinder dürfen keine Tätigkeiten von Erwachsen ausüben.&#x20;
+❱ Kinder dürfen keine Tätigkeiten von Erwachsen ausüben.
 
 _z.b: Kein Autofahren oder das tragen einer Schusswaffe etc._

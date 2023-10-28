@@ -4,7 +4,7 @@
 
 ## Regeln
 
-* [📖 Regelwerk](<README (1).md>)
+* [📖 Regelwerk](<REGELWERK.md>)
   * [📔 §1 Allgemein](regeln/README/1-allgemein.md)
   * [🙆 §2 Benutzerkonto](regeln/README/2-benutzerkonto.md)
   * [🎮 §3 Roleplay](regeln/README/3-roleplay.md)
@@ -28,7 +28,7 @@
 * [🗣 Was ist IC-OOC](regeln/was-ist-ic-ooc.md)
 * [📺 Was ist Meta-Gaming](regeln/was-ist-meta-gaming.md)
 
-## Erklärung&#x20;
+## Erklärung
 
 * [🚗 Fahrzeugproduktion](erklaerung/fahrzeugproduktion.md)
 * [🎤 GRP-Voice](erklaerung/grp-voice.md)
@@ -39,7 +39,7 @@
 * [🔫 Gambohalle](erklaerung/gambohalle.md)
 * [🌇 Grafikmodifikationen](erklaerung/grafikmodifikationen.md)
 * [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)
-* [🔧 Werbank](erklaerung/werbank.md)
+* [🔧 Werkbank](erklaerung/werkbank.md)
 
 ## Fraktionen
 

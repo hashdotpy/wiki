@@ -26,7 +26,7 @@ Neulinge, die nicht von euch an,- oder abgeworben wurden, dürfen nicht gebeten 
 
 **SCHUSSCALL**
 
-Allgemeine Schusscallregelung:&#x20;
+Allgemeine Schusscallregelung:
 
 ❱ Eine Schusswaffe/Schlagwaffe wird **nur** mit gegebenem **Schusscall** verwendet. \
 ❱ Nach dem letzten Schuss, gilt der Schusscall **weitere 10 Minuten**.\
@@ -34,10 +34,10 @@ Allgemeine Schusscallregelung:&#x20;
 ❱ Das bloße Zielen mit einer Waffe eröffnet für keine Partei einen Schusscall.\
 ❱ Schüsse auf ein leeres Fahrzeug, **gelten** als Schusscall **wenn** die **Gegenpartei das Feuer eröffnet**.\
 ❱ Flüchten in Safezones bei aktiven Schusscall ist **verboten**.\
-❱ Schüsse auf Fahrzeuge _(eingenommen Insassen)_ insbesondere Reifen _(von_ [_LSPD_ ](https://distrikt.gg/docs/lspd/)_/_ [_LSSD_](https://distrikt.gg/docs/lssd/)_)_ kommen einem Schusscall gleich und bedürfen diesen explizit.\
-❱ Es ist untersagt, als **zivile Gruppierung oder als zivile Einzelperson** eine Drogenroute zu stürmen.&#x20;
+❱ Schüsse auf Fahrzeuge _(eingenommen Insassen)_ insbesondere Reifen _(von_ [_LSPD_](../../fraktionen/lspd.md)_ / _ [_LSSD_](../../fraktionen/lssd.md)_)_ kommen einem Schusscall gleich und bedürfen diesen explizit.\
+❱ Es ist untersagt, als **zivile Gruppierung oder als zivile Einzelperson** eine Drogenroute zu stürmen.
 
-Beispiele für einen indirekten Schusscall:&#x20;
+Beispiele für einen indirekten Schusscall:
 
 ❱ Wenn jemand mein Auto vor meinen Augen klaut\
 ❱ extreme Beleidigung und extremes Provozieren\
@@ -56,7 +56,7 @@ Das Callen auf Routen
 ❱ Fällt ein Call auf einer Route die von Staatfraktionen gestürmt wird, eröffnet sich der Call für alle Parteien auf der Route.\
 
 
-&#x20;  _Das Callen einer einzeln Partei auf einer Route ist nicht möglich!_
+  _Das Callen einer einzeln Partei auf einer Route ist nicht möglich!_
 
 **Geiselnahmen & Überfälle**
 
@@ -64,7 +64,7 @@ Geiselnahmen unterliegen den folgenden Beschränkungen
 
 * **Pro Geisel** darf **maximal 2500.-**$ gefordert werden.
 * Während einer Geiselnahme, Juwelen-Raub, Staatsbank-Raub, Ladenraub besteht **KEIN** aktiver Schusscall, hierbei steht das RP während der Verhandlung an erster Stelle.
-* Beim einem Juwelen oder Staatsbank-Raub wird mind. eine Geisel benötigt.&#x20;
+* Beim einem Juwelen oder Staatsbank-Raub wird mind. eine Geisel benötigt.
 * „_Fake-Geiseln_“ / Absprache mit Geiseln / Meta-Gaming ist **verboten**.
 * Bei einer Geiselnahme/Raub steht das RP im Vordergrund und nicht das Lösegeld/Wertgegenstände.
 * 30 Minuten vor dem Serverrestart dürfen keine Geiselnahmen/ Raube / Razzien stattfinden.
@@ -77,7 +77,7 @@ Bei einem Überfall dürfen einer Person:
 * **Maximal 500 (**_**legale**_**) Ressourcen** entwendet werden!
 * **Keine** (_Fahrzeug_)-Lizenzen / Waffenscheine / Diensts-, Anwalts- und Presseausweise entwendet werden!
 
-Ein Überfall auf User **darf nicht ohne gegebenem RP-Hintergrund passieren** _\[Der Wunsch nach Materialien/Geld zählt **nicht** als RP-Hintergrund]_.&#x20;
+Ein Überfall auf User **darf nicht ohne gegebenem RP-Hintergrund passieren** _\[Der Wunsch nach Materialien/Geld zählt **nicht** als RP-Hintergrund]_.
 
 Folgende Gegenstände ziehen mehr „_Ressourcenkapazität_“:
 
@@ -86,7 +86,7 @@ Folgende Gegenstände ziehen mehr „_Ressourcenkapazität_“:
 * **Mett** = 20 / 50
 * **Schweineschnitzel** = 100 / 500
 
-&#x20;Folgende Gegenstände gelten als **ILLEGAL**:
+Folgende Gegenstände gelten als **ILLEGAL**:
 
 * Eisenklinge
 * Waffenteile ( Alle Items die zur Herstellung einer Waffe benötigt werden)
@@ -97,7 +97,7 @@ Folgende Gegenstände ziehen mehr „_Ressourcenkapazität_“:
 Gegenstände mit dem folgenden Endungen dürfen **nicht** abgenommen werden (Ausnahme: Heists) :
 
 * \[Geheim]
-* \[VIP]&#x20;
+* \[VIP]
 * \[VIP-GEWINN]
 * \[EVENT]
 * **\[WEAZEL]**
@@ -106,8 +106,8 @@ Gegenstände mit dem folgenden Endungen dürfen **nicht** abgenommen werden (Aus
 
 **(AFK)-Farming**
 
-&#x20;Das AFK-Farmen auf einer legalen Route ist **erlaubt.**\
-&#x20;Das AFK-Farmen auf einer illegalen Route ist **erlaubt**, man sollte jedoch ansprechbar sein.
+Das AFK-Farmen auf einer legalen Route ist **erlaubt.**\
+Das AFK-Farmen auf einer illegalen Route ist **erlaubt**, man sollte jedoch ansprechbar sein.
 
 **RDM / VDM**
 
@@ -128,7 +128,7 @@ Wer aufgrund technischer Probleme eine RP-Situation verlassen muss, ist dazu ver
 Power RP bedeutet, dass man dem anderen Spieler keine Möglichkeit aus einer RP Situation (lebend) zu entkommen oder einem anderen Spieler eine RP-Situation aufzwingt.\
 Es ist verboten gerade gespawnte Spieler ins RP zu ziehen und als Geisel zu nehmen.\
 Es ist untersagt “_Neulinge_” am Spawn zu belästigen/entführen/zu töten. \
-Schutzgeld und gezwungene Geldüberweisungen gelten als Power RP.&#x20;
+Schutzgeld und gezwungene Geldüberweisungen gelten als Power RP.
 
 _Wenn dein Charakter unhöflich oder unrealistisch handelt, wenn er einer bewaffneten Person gegenübersteht, kann es der bewaffneten Person erlaubt sein, dich zu erschießen. Dies fällt nicht unter das PowerRP, da dein Charakter überlebt hätte, wenn er respektvoll mit der bewaffneten Person umgegangen wäre._
 
@@ -137,7 +137,7 @@ _Wenn dein Charakter unhöflich oder unrealistisch handelt, wenn er einer bewaff
 Die Flucht aus einer RP-Situation, indem man sich ausloggt, von der Situation entfernt oder Selbstmord begeht, ist **verboten** (_z.B. Offlineflucht / Combat Log-Out_).\
 RP-Flucht mit dem Hintergrund seine Inventar nicht der Gegenpartei aushändigen zu müssen wird mit einem Safe/Garagen Clear bestraft!
 
-Das Flüchten in eine für andere nicht begehbare Wohnung oder anderes nicht begehbares Gebäude um einer Situation zu entfliehen oder sich einen Vorteil zu beschaffen ist verboten.&#x20;
+Das Flüchten in eine für andere nicht begehbare Wohnung oder anderes nicht begehbares Gebäude um einer Situation zu entfliehen oder sich einen Vorteil zu beschaffen ist verboten.
 
 **3.Partei**
 

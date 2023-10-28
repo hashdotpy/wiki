@@ -4,7 +4,7 @@
 
 FiveM für Low-End Systeme ist eine Konfiguration um trotz schlechter Hardware optimale FPS (Bilder pro Sekunde) ohne Stottern zu bekommen.
 
-**Features**&#x20;
+**Features**
 
 * Deaktivierter _Bloom_ (+2 fps)
 * Verringertes _FarClip_ (+5 fps)
@@ -17,12 +17,12 @@ FiveM für Low-End Systeme ist eine Konfiguration um trotz schlechter Hardware o
 Download FiveM für Low-End PCs Konfiguration: [**Download**](https://forum.cfx.re/uploads/default/original/3X/6/b/6bc80968a54b301e3ffc53663158fad560fdae24.zip)\
 _(bereitgestellt von_ [_CFX_](https://forum.cfx.re/) _/ FiveM-Forum)_
 
-**Video Downloads**&#x20;
+**Video Downloads**
 
 **Malwarebytes**: [Download](https://de.malwarebytes.com/mwb-download/)\
 **Ccleaner**: [Download](https://www.ccleaner.com/de-de/ccleaner):
 
-**Grafikkarten-Treiber Downloads**&#x20;
+**Grafikkarten-Treiber Downloads**
 
 **NVIDIA**: [Download](https://www.nvidia.com/de-de/geforce/geforce-experience/)\
 **AMD**: [Download](https://www.amd.com/de/support)
@@ -38,13 +38,13 @@ _(bereitgestellt von_ [_CFX_](https://forum.cfx.re/) _/ FiveM-Forum)_
 
 Beachte, dass ein Löschen des FiveM-Cache ebenfalls deine FPS erhöhen kann.
 
-**Weitere Möglichkeiten deine FPS zu verbessern**&#x20;
+**Weitere Möglichkeiten deine FPS zu verbessern**
 
 Im folgenden [Video](https://www.youtube.com/watch?v=4NM\_oECsGoQ) erfährst Du weitere hilfreiche Tipps zum steigern Deiner FPS innerhalb von GRP und FiveM im Allgemeinen.
 
 [https://www.youtube.com/watch?v=4NM\_oECsGoQ](https://www.youtube.com/watch?v=4NM\_oECsGoQ)
 
-**Kann ich dafür bestraft / gebanned werden?**&#x20;
+**Kann ich dafür bestraft / gebanned werden?**
 
 Nein!\
 Weder auf GRP, noch innerhalb der FiveM-Plattform, kann diese Änderung _(oder die Änderungen im vorgeschlagenem Video)_ dazu führen, dass Du gebanned / bestraft wirst.\

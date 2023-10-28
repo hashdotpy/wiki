@@ -48,3 +48,5 @@
 * [🌇 Grafikmodifikationen](erklaerung/grafikmodifikationen.md)
 * [🗣 Support](erklaerung/support.md)
 * [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)
+* [🔧 Werbank](erklaerung/werbank.md)
+* [🎫 Ticket erstellen](erklaerung/ticket-erstellen.md)

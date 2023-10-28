@@ -12,22 +12,20 @@ FIB-Tower
 
 ### Ränge  <a href="#2-toc-title" id="2-toc-title"></a>
 
-* Director
-* Vice-Director
-* Commander
-* Operator
-* Captain
-* Senior Agent II
-* Senior Agent I
-* Special Agent IIII
-* Special Agent III
-* Special Agent II
-* Special Agent I
-* Agent
-
-### Gehalt  <a href="#3-toc-title" id="3-toc-title"></a>
-
-Geheim
+| Rang               | Gehalt |
+| ------------------ | ------ |
+| Director           | Geheim |
+| Vice-Director      | Geheim |
+| Commander          | Geheim |
+| Operator           | Geheim |
+| Captain            | Geheim |
+| Senior Agent II    | Geheim |
+| Senior Agent I     | Geheim |
+| Special Agent IIII | Geheim |
+| Special Agent III  | Geheim |
+| Special Agent II   | Geheim |
+| Special Agent I    | Geheim |
+| Agent              | Geheim |
 
 ### Bewerbungsverfahren  <a href="#4-toc-title" id="4-toc-title"></a>
 

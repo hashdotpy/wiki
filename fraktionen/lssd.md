@@ -2,59 +2,11 @@
 
 ### Standort/PLZ  <a href="#0-toc-title" id="0-toc-title"></a>
 
-Paleto BAY / 1038
+<mark style="background-color:orange;">Paleto Bay / 1038</mark>
 
-### Ränge  <a href="#1-toc-title" id="1-toc-title"></a>
+### Ränge / Gehalt <a href="#0-toc-title" id="0-toc-title"></a>
 
-Chief of LSSD
-
-Assistant-Chief
-
-Division-Chief
-
-Area-Commander
-
-Captain
-
-Lieuteant
-
-Sergeant
-
-Sheriff 3
-
-Sheriff 2
-
-Sheriff 1
-
-Trainee
-
-(Respektive Änderungen)
-
-### Gehalt eintragen  <a href="#3-toc-title" id="3-toc-title"></a>
-
-Chief of LSSD 4000 $
-
-Assistant-Chief 3750$
-
-Division-Chief 3200$
-
-Area-Commander 3150$
-
-Captain 3100$
-
-Lieuteant 2800$
-
-Sergeant 2600$
-
-Sheriff 3 2400$
-
-Sheriff 2 2100$
-
-Sheriff 1 2000$
-
-Trainee 1900$
-
-(Respektive Änderungen)
+<table><thead><tr><th>Rang</th><th data-type="number">Gehalt</th></tr></thead><tbody><tr><td>Chief of LSSD</td><td>4000</td></tr><tr><td>Assistent Chief</td><td>3750</td></tr><tr><td>Division-Chief</td><td>3200</td></tr><tr><td>Area-Commander</td><td>3150</td></tr><tr><td>Captain</td><td>3100</td></tr><tr><td>Lieutenant</td><td>2800</td></tr><tr><td>Sergeant </td><td>2600</td></tr><tr><td>Sheriff 3</td><td>2400</td></tr><tr><td>Sheriff 2</td><td>2100</td></tr><tr><td>Sheriff 1</td><td>2000</td></tr><tr><td>Trainee</td><td>1900</td></tr></tbody></table>
 
 ### Geschichte  <a href="#5-toc-title" id="5-toc-title"></a>
 

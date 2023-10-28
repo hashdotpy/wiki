@@ -12,7 +12,7 @@ Weiterhin können besondere Befugnisse oder Privilegien (Job-Spezifisch) von ein
 
 **LSMD**: Je nach Situation unantastbar (sollte er sich im Dienst nicht in Lebensgefahr begeben).
 
-Mehr Unterschiede zu normalen **Fraktionen / Gangs / Banden** kann man dem [Regelwerk](https://distrikt.gg/regeln/)[ ](../)entnehmen.
+Mehr Unterschiede zu normalen **Fraktionen / Gangs / Banden** kann man dem [Regelwerk](https://distrikt.gg/regeln/)[ ](<../README (1).md>)entnehmen.
 
 Aktuelle Staatsfraktionen:
 

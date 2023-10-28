@@ -20,7 +20,7 @@ Das verwendete Mikrofon **muss** folgende Kriterien erfüllen:
 
 **Zusatzsoftware / Cheats / Mods**
 
-Sämtliche Software die einen Vorteil gegenüber anderen Spielern verschafft ist ohne explizite Nennung im [**Regelwerk**](../../) / [**Discord**](https://discord.gg/grp-fivem) grundsätzlich **verboten**!
+Sämtliche Software die einen Vorteil gegenüber anderen Spielern verschafft ist ohne explizite Nennung im [**Regelwerk**](<../../README (1).md>) / [**Discord**](https://discord.gg/grp-fivem) grundsätzlich **verboten**!
 
 **verboten**!
 

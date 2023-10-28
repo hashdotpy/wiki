@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Willkommen](README.md)
+
 ## Regeln
 
-* [📖 Regelwerk](README.md)
+* [📖 Regelwerk](<README (1).md>)
   * [📔 §1 Allgemein](regeln/README/1-allgemein.md)
   * [🙆 §2 Benutzerkonto](regeln/README/2-benutzerkonto.md)
   * [🎮 §3 Roleplay](regeln/README/3-roleplay.md)
@@ -18,6 +20,7 @@
 * [🔪 RDM](regeln/rdm.md)
 * [🚙 VDM](regeln/vdm.md)
 * [⛈ FailRP](regeln/failrp.md)
+* [☄ Baiting](regeln/readme-1.md)
 * [💊 New Life](regeln/new-life.md)
 * [📘 Staatsfraktion](regeln/staatsfraktion.md)
 * [👨👨👦 Drittpartei](regeln/drittpartei.md)
@@ -31,22 +34,27 @@
 * [🎤 GRP-Voice](erklaerung/grp-voice.md)
 * [⚒ Farming](erklaerung/farming.md)
 * [💵 Geld Arten](erklaerung/geld-arten.md)
-* [☄ Baiting](erklaerung/readme.md)
-* [📂 Cache löschen](erklaerung/cache-loeschen.md)
-* [⚔ Ban](erklaerung/ban.md)
-* [🔓 Entbannung](erklaerung/entbannung.md)
 * [🎆 Events](erklaerung/events.md)
-* [🕵 FIB](erklaerung/fib.md)
-* [📈 FiveM FPS](erklaerung/fivem-fps.md)
 * [🤸 Freizeit Aktivitäten](erklaerung/freizeit-aktivitaeten.md)
 * [🔫 Gambohalle](erklaerung/gambohalle.md)
-* [📖 Lexikon](erklaerung/lexikon.md)
-* [🏥 LSMD](erklaerung/lsmd.md)
-* [👮 LSPD](erklaerung/lspd.md)
-* [🚓 LSSD](erklaerung/lssd.md)
-* [👨🔧 Mechaniker](erklaerung/mechaniker.md)
 * [🌇 Grafikmodifikationen](erklaerung/grafikmodifikationen.md)
-* [🗣 Support](erklaerung/support.md)
 * [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)
 * [🔧 Werbank](erklaerung/werbank.md)
-* [🎫 Ticket erstellen](erklaerung/ticket-erstellen.md)
+
+## Fraktionen
+
+* [🏥 LSMD](fraktionen/lsmd.md)
+* [👮 LSPD](fraktionen/lspd.md)
+* [🚓 LSSD](fraktionen/lssd.md)
+* [🕵 FIB](fraktionen/fib.md)
+* [👨🔧 Mechaniker](fraktionen/mechaniker.md)
+
+## Guides
+
+* [🎫 Ticket erstellen](guides/ticket-erstellen.md)
+* [🗣 Support](guides/support.md)
+* [📈 FiveM FPS](guides/fivem-fps.md)
+* [⚔ Ban](guides/ban.md)
+* [🔓 Entbannung](guides/entbannung.md)
+* [📂 Cache löschen](guides/cache-loeschen.md)
+* [⛓ Adminjail](guides/adminjail.md)

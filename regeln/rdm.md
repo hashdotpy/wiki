@@ -43,8 +43,6 @@ Solltest du jemandem **keine** Reaktionszeit lassen, nachdem ein Schusscall abge
 In **manchen Fällen** wird **kein Schusscall benötigt**, sondern es kann einfach geschossen werden.\
 Diese Fälle sind:
 
-* beim **Bankraub**
-* beim **Juwelierraub**
 * bei einem **Waffentransport** des LSPDs
 
 ### Ausnahme: Geiselnahme <a href="#4-toc-title" id="4-toc-title"></a>

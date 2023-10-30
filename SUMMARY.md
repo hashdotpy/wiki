@@ -37,6 +37,7 @@
 * [🌇 Grafikmodifikationen](erklaerung/grafikmodifikationen.md)
 * [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)
 * [🔧 Werkbank](erklaerung/werkbank.md)
+* [👕 Fraktionsoutfits](erklaerung/fraktionsoutfits.md)
 
 ## WAS IST
 

@@ -85,6 +85,11 @@ Folgende Gegenstände ziehen mehr „_Ressourcenkapazität_“:
 \
 Bei uns existieren zahlreiche illegale Routen, alle erforderlichen Informationen findest du [**hier**](../../erklaerung/illegale-routen.md).
 
+**(AFK)-Farming**
+
+Das AFK-Farmen auf einer legalen Route ist **erlaubt.**\
+Das AFK-Farmen auf einer illegalen Route ist **erlaubt**, man muss jedoch ansprechbar sein.
+
 **RDM / VDM**
 
 [**RDM**](../rdm.md)**\*** / [**VDM**](../vdm.md)**\*\*** / sind **verboten**.

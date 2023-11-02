@@ -7,7 +7,7 @@ Meist sind diese legale Routen durch Safezones geschützt und das Überfallen / 
 
 ### Illegale Routen / Farming  <a href="#1-toc-title" id="1-toc-title"></a>
 
-Illegale Routen bieten Zugang zu illegalen Ressourcen und dürfen **nicht** AFK bespielt werden.\
+Illegale Routen ermöglichen den Zugang zu **illegalen** Ressourcen und dürfen im AFK bespielt werden, allerdings ist es notwendig, ansprechbar zu bleiben.\
 Das Überfallen / Abziehen von Materiealien ist gestattet.\
 Sämtliche **Drogenrouten** gelten als illegal.\
 Als Kind darf nicht gefarmt werden!
@@ -15,4 +15,3 @@ Als Kind darf nicht gefarmt werden!
 ### Hinweis  <a href="#2-toc-title" id="2-toc-title"></a>
 
 Beachte, dass ein **Schusscall** notwendig ist um jemanden zu töten (_Dies gilt insbesondere für illegale Routen aber nicht für legale Routen da hier das Abziehen / Überfallen ohnehin **nicht** gestattet ist_).
-

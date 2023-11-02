@@ -38,6 +38,7 @@
 * [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)
 * [🔧 Werkbank](erklaerung/werkbank.md)
 * [👕 Fraktionsoutfits](erklaerung/fraktionsoutfits.md)
+* [🗺 illegale Routen](erklaerung/illegale-routen.md)
 
 ## WAS IST
 

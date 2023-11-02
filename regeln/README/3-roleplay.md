@@ -82,27 +82,8 @@ Folgende Gegenstände ziehen mehr „_Ressourcenkapazität_“:
 * **Mett** = 20 / 50
 * **Schweineschnitzel** = 100 / 500
 
-Folgende Gegenstände gelten als **ILLEGAL**:
-
-* Eisenklinge
-* Waffenteile ( Alle Items die zur Herstellung einer Waffe benötigt werden)
-* Munition
-* Waffen
-* Alle Drogen & Drogen Rezepte
-
-Gegenstände mit dem folgenden Endungen dürfen **nicht** abgenommen werden (Ausnahme: Heists) :
-
-* \[Geheim]
-* \[VIP]
-* \[VIP-GEWINN]
-* \[EVENT]
-* **\[WEAZEL]**
-* **\[SELTEN]**\\
-
-**(AFK)-Farming**
-
-Das AFK-Farmen auf einer legalen Route ist **erlaubt.**\
-Das AFK-Farmen auf einer illegalen Route ist **erlaubt**, man sollte jedoch ansprechbar sein.
+\
+Bei uns existieren zahlreiche illegale Routen, alle erforderlichen Informationen findest du [**hier**](../../erklaerung/illegale-routen.md).
 
 **RDM / VDM**
 

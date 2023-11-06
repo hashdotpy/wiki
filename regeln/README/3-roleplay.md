@@ -19,7 +19,7 @@ Jegliche Art von Scamming / Betrug ist **verboten**.\
 Mitglieder einer Staatsfraktion gelten als unantastbar, solange sie sich nicht in Gefahr begeben. \[Ausnahme bei Raubüberfällen, Provokation, Ausnutzen ihres Postens, Razzien]\
 Sportwagen, Tiefergelegte und nicht bauartbedingte Fahrzeuge sollten **nicht Offroad** fahren und sind **nicht** dafür ausgelegt.
 
-Spieler die nackt rumlaufen gelten im Zweifelsfall als 3.Partei falls sie das reporten. Sollte jmd. der nackt ist mit umgeschossen werden, ist er selbst Schuld.
+Das Nackte agieren ist **Verboten**. Spieler die nackt rumlaufen gelten im Zweifelsfall als 3.Partei falls sie das reporten. Sollte jmd. der nackt ist mit umgeschossen werden, ist er selbst Schuld. 
 
 Neulinge, die nicht von euch an,- oder abgeworben wurden, dürfen nicht gebeten werden, einen Einladungscode einzugeben.
 

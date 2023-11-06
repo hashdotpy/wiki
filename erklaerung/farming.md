@@ -10,7 +10,7 @@ Meist sind diese legale Routen durch Safezones geschützt und das Überfallen / 
 Illegale Routen ermöglichen den Zugang zu **illegalen** Ressourcen und dürfen im AFK bespielt werden, allerdings ist es notwendig, ansprechbar zu bleiben.\
 Das Überfallen / Abziehen von Materiealien ist gestattet.\
 Sämtliche **Drogenrouten** gelten als illegal.\
-Als Kind darf nicht gefarmt werden! Es ist verboten, Farmhelfer auf einer illegalen Route zu platzieren.(Bugabuse)
+Als Kind darf nicht gefarmt werden! Es ist verboten, **Farmhelfer** auf einer illegalen Route zu platzieren.(Bugabuse)
 
 ### Hinweis  <a href="#2-toc-title" id="2-toc-title"></a>
 

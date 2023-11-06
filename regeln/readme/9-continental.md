@@ -24,5 +24,5 @@ Das "Continental" agiert in dieser Angelegenheit als neutrale Partei und basiere
 
 _Beispiel: Wenn die Polizei dir auf den Fersen ist, fahre ins Hotel, gib deine Münze ab und genieße es, ein freier Mann zu sein._
 
-**Vogelfrei:** Wenn das Continental eine Fraktion als vogelfrei erklärt, sind **ALLE** Fraktionen verpflichtet, dieser Fraktion nachzujagen, bis vom Continental andere Anweisungen erteilt werden.
+**Excommunicado** Wenn das Continental eine Fraktion als "Excommunicado" erklärt, sind **ALLE** Fraktionen verpflichtet, dieser Fraktion nachzujagen, bis vom Continental andere Anweisungen erteilt werden.
 
